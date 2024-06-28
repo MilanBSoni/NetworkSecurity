@@ -1,10 +1,22 @@
-FROM ubuntu:latest
+# Use an official Ubuntu as a parent image
+FROM ubuntu:20.04
 
-RUN apt update && apt install -y build-essential libpcap-dev
+# Set environment variables to non-interactive
+ENV DEBIAN_FRONTEND=noninteractive
 
-COPY . /app
+# Install necessary packages
+RUN apt-get update && \
+    apt-get install -y build-essential libpcap-dev libjson-c-dev && \
+    apt-get clean
+
+# Set the working directory
 WORKDIR /app
 
-RUN gcc -o smb_parser smb_parser.c -lpcap
+# Copy the current directory contents into the container at /app
+COPY . /app
 
-ENTRYPOINT ["./smb_parser"]
+# Compile the C program
+RUN gcc -o smb_parser smb_parser.c -lpcap -ljson-c
+
+# Run the smb_parser executable
+CMD ["./smb_parser", "smb.pcap"]

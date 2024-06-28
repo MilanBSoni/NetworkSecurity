@@ -1,14 +1,15 @@
-# SMB Parser
+# SMB Parser Project
 
-## Description
-This program parses SMBv2 packets from a given pcap file, extracts attachments and metadata.
+This project reads SMBv2 packets from a pcap file, extracts attachments, and generates metadata in JSON format.
 
-## Requirements
-- Ubuntu
-- libpcap
+## Prerequisites
 
-## Usage
+- `libpcap-dev`
+- `libjson-c-dev`
 
-### Compiling
-```sh
-gcc -o smb_parser smb_parser.c -lpcap
+## Running the Program Natively
+
+1. **Install Dependencies**:
+   ```sh
+   sudo apt-get update
+   sudo apt-get install -y build-essential libpcap-dev libjson-c-dev

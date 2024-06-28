@@ -1,0 +1,254 @@
+[
+  {
+    "Source IP":"192.168.1.78",
+    "Destination IP":"192.168.1.53",
+    "Source Port":55770,
+    "Destination Port":445,
+    "SMB2 Command":61570
+  },
+  {
+    "Source IP":"192.168.1.53",
+    "Destination IP":"192.168.1.78",
+    "Source Port":445,
+    "Destination Port":55770,
+    "SMB2 Command":55877
+  },
+  {
+    "Source IP":"192.168.1.78",
+    "Destination IP":"192.168.1.53",
+    "Source Port":55770,
+    "Destination Port":445,
+    "SMB2 Command":61570
+  },
+  {
+    "Source IP":"192.168.1.78",
+    "Destination IP":"192.168.1.53",
+    "Source Port":55770,
+    "Destination Port":445,
+    "SMB2 Command":61570
+  },
+  {
+    "Source IP":"192.168.1.53",
+    "Destination IP":"192.168.1.78",
+    "Source Port":445,
+    "Destination Port":55770,
+    "SMB2 Command":55877
+  },
+  {
+    "Source IP":"192.168.1.78",
+    "Destination IP":"192.168.1.53",
+    "Source Port":55770,
+    "Destination Port":445,
+    "SMB2 Command":61570
+  },
+  {
+    "Source IP":"192.168.1.78",
+    "Destination IP":"192.168.1.53",
+    "Source Port":55770,
+    "Destination Port":445,
+    "SMB2 Command":61570
+  },
+  {
+    "Source IP":"192.168.1.53",
+    "Destination IP":"192.168.1.78",
+    "Source Port":445,
+    "Destination Port":55770,
+    "SMB2 Command":55877
+  },
+  {
+    "Source IP":"192.168.1.78",
+    "Destination IP":"192.168.1.53",
+    "Source Port":55770,
+    "Destination Port":445,
+    "SMB2 Command":61571
+  },
+  {
+    "Source IP":"192.168.1.78",
+    "Destination IP":"192.168.1.53",
+    "Source Port":55770,
+    "Destination Port":445,
+    "SMB2 Command":61571
+  },
+  {
+    "Source IP":"192.168.1.53",
+    "Destination IP":"192.168.1.78",
+    "Source Port":445,
+    "Destination Port":55770,
+    "SMB2 Command":55877
+  },
+  {
+    "Source IP":"192.168.1.78",
+    "Destination IP":"192.168.1.53",
+    "Source Port":55770,
+    "Destination Port":445,
+    "SMB2 Command":61571
+  },
+  {
+    "Source IP":"192.168.1.78",
+    "Destination IP":"192.168.1.53",
+    "Source Port":55770,
+    "Destination Port":445,
+    "SMB2 Command":62233
+  },
+  {
+    "Source IP":"192.168.1.53",
+    "Destination IP":"192.168.1.78",
+    "Source Port":445,
+    "Destination Port":55770,
+    "SMB2 Command":55944
+  },
+  {
+    "Source IP":"192.168.1.78",
+    "Destination IP":"192.168.1.53",
+    "Source Port":55770,
+    "Destination Port":445,
+    "SMB2 Command":62234
+  },
+  {
+    "Source IP":"192.168.1.78",
+    "Destination IP":"192.168.1.53",
+    "Source Port":55770,
+    "Destination Port":445,
+    "SMB2 Command":62280
+  },
+  {
+    "Source IP":"192.168.1.53",
+    "Destination IP":"192.168.1.78",
+    "Source Port":445,
+    "Destination Port":55770,
+    "SMB2 Command":55952
+  },
+  {
+    "Source IP":"192.168.1.78",
+    "Destination IP":"192.168.1.53",
+    "Source Port":55770,
+    "Destination Port":445,
+    "SMB2 Command":62312
+  },
+  {
+    "Source IP":"192.168.1.78",
+    "Destination IP":"192.168.1.53",
+    "Source Port":55770,
+    "Destination Port":445,
+    "SMB2 Command":62312
+  },
+  {
+    "Source IP":"192.168.1.53",
+    "Destination IP":"192.168.1.78",
+    "Source Port":445,
+    "Destination Port":55770,
+    "SMB2 Command":55952
+  },
+  {
+    "Source IP":"192.168.1.78",
+    "Destination IP":"192.168.1.53",
+    "Source Port":55770,
+    "Destination Port":445,
+    "SMB2 Command":62313
+  },
+  {
+    "Source IP":"192.168.1.78",
+    "Destination IP":"192.168.1.53",
+    "Source Port":55770,
+    "Destination Port":445,
+    "SMB2 Command":62313
+  },
+  {
+    "Source IP":"192.168.1.53",
+    "Destination IP":"192.168.1.78",
+    "Source Port":445,
+    "Destination Port":55770,
+    "SMB2 Command":55952
+  },
+  {
+    "Source IP":"192.168.1.78",
+    "Destination IP":"192.168.1.53",
+    "Source Port":55770,
+    "Destination Port":445,
+    "SMB2 Command":62313
+  },
+  {
+    "Source IP":"192.168.1.78",
+    "Destination IP":"192.168.1.53",
+    "Source Port":55770,
+    "Destination Port":445,
+    "SMB2 Command":62313
+  },
+  {
+    "Source IP":"192.168.1.78",
+    "Destination IP":"192.168.1.53",
+    "Source Port":55770,
+    "Destination Port":445,
+    "SMB2 Command":62313
+  },
+  {
+    "Source IP":"192.168.1.78",
+    "Destination IP":"192.168.1.53",
+    "Source Port":55770,
+    "Destination Port":445,
+    "SMB2 Command":62313
+  },
+  {
+    "Source IP":"192.168.1.78",
+    "Destination IP":"192.168.1.53",
+    "Source Port":55770,
+    "Destination Port":445,
+    "SMB2 Command":62313
+  },
+  {
+    "Source IP":"192.168.1.78",
+    "Destination IP":"192.168.1.53",
+    "Source Port":55770,
+    "Destination Port":445,
+    "SMB2 Command":62313
+  },
+  {
+    "Source IP":"192.168.1.78",
+    "Destination IP":"192.168.1.53",
+    "Source Port":55770,
+    "Destination Port":445,
+    "SMB2 Command":62313
+  },
+  {
+    "Source IP":"192.168.1.78",
+    "Destination IP":"192.168.1.53",
+    "Source Port":55770,
+    "Destination Port":445,
+    "SMB2 Command":62313
+  },
+  {
+    "Source IP":"192.168.1.78",
+    "Destination IP":"192.168.1.53",
+    "Source Port":55770,
+    "Destination Port":445,
+    "SMB2 Command":62313
+  },
+  {
+    "Source IP":"192.168.1.78",
+    "Destination IP":"192.168.1.53",
+    "Source Port":55770,
+    "Destination Port":445,
+    "SMB2 Command":62313
+  },
+  {
+    "Source IP":"192.168.1.78",
+    "Destination IP":"192.168.1.53",
+    "Source Port":55770,
+    "Destination Port":445,
+    "SMB2 Command":62313
+  },
+  {
+    "Source IP":"192.168.1.53",
+    "Destination IP":"192.168.1.78",
+    "Source Port":445,
+    "Destination Port":55770,
+    "SMB2 Command":55952
+  },
+  {
+    "Source IP":"192.168.1.78",
+    "Destination IP":"192.168.1.53",
+    "Source Port":55770,
+    "Destination Port":445,
+    "SMB2 Command":62314
+  }
+]
